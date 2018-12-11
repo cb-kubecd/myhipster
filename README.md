@@ -5,7 +5,7 @@ This application was generated using JHipster 5.7.0, you can find documentation 
 
 To start your application in the dev profile, simply run:
 
-    
+xxx    
 
 
 For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
